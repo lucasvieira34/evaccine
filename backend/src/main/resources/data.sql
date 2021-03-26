@@ -1,0 +1,1 @@
+INSERT INTO pessoa (nome,cpf,telefone,email,idade,data_nascimento,is_vacinada) VALUES ('Lucas Teixeira', '16102713788', '21992960931', 'lucas@evaccine.com', 23, '04/04/1997',true);
